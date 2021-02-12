@@ -1,0 +1,9 @@
+.heading {
+  text-align: center;
+  font-size: 40px;
+}
+.item {
+  text-transform: capitalize;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 24px;
+}

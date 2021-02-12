@@ -1,7 +1,7 @@
 [
   {
     "name": "cap",
-    "ingridients": {
+    "ingredients": {
       "dough": 1,
       "tomato_sauce": 1,
       "onion": 2,
@@ -12,7 +12,7 @@
   },
   {
     "name": "onions",
-    "ingridients": {
+    "ingredients": {
       "dough": 1,
       "tomato_sauce": 1,
       "onion": 2,
@@ -22,7 +22,7 @@
   },
   {
     "name": "king_one",
-    "ingridients": {
+    "ingredients": {
       "dough": 1,
       "tomato_sauce": 1,
       "onion": 2,
@@ -36,7 +36,7 @@
   },
   {
     "name": "gavay",
-    "ingridients": {
+    "ingredients": {
       "dough": 1,
       "tomato_sauce": 1,
       "onion": 2,
@@ -46,7 +46,7 @@
   },
   {
     "name": "tonno",
-    "ingridients": {
+    "ingredients": {
       "dough": 1,
       "tomato_sauce": 1,
       "tuna": 2,
@@ -56,7 +56,7 @@
   },
   {
     "name": "vegeterian",
-    "ingridients": {
+    "ingredients": {
       "dough": 1,
       "tomato_sauce": 1,
       "tomato": 2,

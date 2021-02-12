@@ -1,0 +1,17 @@
+.orders {
+  width: 45%;
+  border: 1px solid lightgray;
+  box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+.message {
+  color: gray;
+  font-style: italic;
+}
+.item {
+  text-transform: capitalize;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 16px;
+}
